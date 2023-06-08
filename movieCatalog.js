@@ -8,7 +8,7 @@ const movieCatalog = {
     console.log('Welcome to the Movie Catalog CLI Application!');
     console.log('*********************************************');
 
-    while (true) {
+    while (true){
       console.log('1- Display Movie Catalog');
       console.log('2- Add New Movie');
       console.log('3- Update Movie Details');
