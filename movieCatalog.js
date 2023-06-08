@@ -2,6 +2,7 @@ const fileHandler = require('./fileHandler');
 const apiRequest = require('./apiRequest');
 const utils = require('./utils');
 
+
 const movieCatalog = {
   async start() {
     console.log('*********************************************');
